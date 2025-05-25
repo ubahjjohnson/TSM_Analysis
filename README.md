@@ -61,7 +61,11 @@ To run this analysis locally, please follow these steps:
     # Install the libraries
     pip install pandas numpy matplotlib seaborn
     ```
-
+3.  **Run the analysis:**
+    Execute the Python script containing the analysis.
+    ```bash
+    python tsm_analysis1.py
+    ```
 
 ---
 
