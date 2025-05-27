@@ -1,8 +1,6 @@
-# Tenant Satisfaction Measures (TSM) Analysis for Low-Income Rental Accommodation in the UK
+# Tenant Satisfaction Measures (TSM) Analysis
 
 This project analyzes the **Tenant Satisfaction Measures (TSM) dataset** to assess tenant satisfaction with services provided by landlords of low-income rental accommodations across the UK. By leveraging Python's powerful data analysis and visualization libraries, this analysis aims to provide insights into key areas of tenant experience and landlord performance.
-
-**Project Link:** https://colab.research.google.com/drive/1fDEZQOIvrCjgCCWXktbn2OruvRD4EmKF?usp=sharing
 
 ---
 
